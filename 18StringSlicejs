@@ -1,0 +1,7 @@
+//UDEMY from JS beginners
+// #21
+
+let wordMethod = "GARBAGE!";
+let newWord = wordMethod.slice(2).replace("B", " ");
+
+console.log(newWord);
